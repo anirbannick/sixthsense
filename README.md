@@ -1,4 +1,4 @@
-#SixthSense
+#SixthSense Technology
 
 ##A wearable gesture interface
 
